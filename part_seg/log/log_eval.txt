@@ -1,0 +1,13 @@
+Namespace(batch_size=32, gpu=0, log_dir='log_eval', model='pointnet2_part_seg', model_path='log/model.ckpt', num_point=9160)
+pid: 16625
+2019-10-09 10:11:13.388340
+---- EPOCH 000 EVALUATION ----
+000/015
+eval mean loss: 0.000418
+eval accuracy: 0.999941
+eval avg class acc: 0.999353
+eval mIoU of Wires:	 0.999693
+eval mean mIoU: 0.999693
+eval mean mIoU (all shapes): 0.999693
+eval recall : 0.999961252344
+eval F1_score : 0.999950907482

@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt"
+all_model_checkpoint_paths: "best_model_epoch_100.ckpt"
+all_model_checkpoint_paths: "best_model_epoch_130.ckpt"
+all_model_checkpoint_paths: "best_model_epoch_175.ckpt"
+all_model_checkpoint_paths: "best_model_epoch_180.ckpt"
+all_model_checkpoint_paths: "model.ckpt"
